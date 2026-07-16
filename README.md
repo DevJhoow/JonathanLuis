@@ -16,4 +16,4 @@ Projetos que desafiam e desenvolvem minhas habilidades
 
 Entre em contato comigo:
 📫 E-mail: jdk99.rodrigues@gmail.com
-💼 LinkedIn: Jonathan Luis
+💼 LinkedIn: https://www.linkedin.com/in/jonathanluis/?skipRedirect=true
