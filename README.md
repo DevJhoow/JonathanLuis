@@ -1,19 +1,16 @@
-Olá! 👋
-Meu nome é Jonathan Luis, desenvolvedor de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e procurando ativamente por minha primeira oportunidade na área de tecnologia.
+# Olá, eu sou Jonathan 👋
 
-Sobre:
-🌱 Atualmente estou aprendendo:
-PHP (estrutura Laravel) JavaScript MySQL
-👀 Estou interessado em:
-Desenvolvimento back-end
-Construindo plataformas de comércio eletrônico
-Melhorando minhas habilidades de lógica e programação
+🎓 Formado em Análise e Desenvolvimento de Sistemas (12/2025).
 
-💞️ Estou procurando colaborar em:
+Atualmente estudo as tecnologias e tendências mais valorizadas pelo mercado de desenvolvimento de software. Ao longo dessa jornada, percebi que as empresas não buscam apenas profissionais que conhecem linguagens de programação, mas desenvolvedores capazes de resolver problemas e gerar resultados.
 
-Projetos de código aberto em PHP e JavaScript
-Projetos que desafiam e desenvolvem minhas habilidades
+Acredito que a Inteligência Artificial é uma ferramenta essencial para aumentar produtividade, acelerar entregas e apoiar a criação de soluções mais eficientes. Por isso, além de aprimorar minhas habilidades técnicas, busco aprender como utilizar IA de forma estratégica no desenvolvimento de software.
 
-Entre em contato comigo:
-📫 E-mail: jdk99.rodrigues@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/jonathanluis/?skipRedirect=true
+🚀 Foco atual:
+- Desenvolvimento de software
+- Inteligência Artificial aplicada ao desenvolvimento
+- Arquitetura e boas práticas
+- Resolução de problemas reais
+- Aprendizado contínuo
+
+> Programar continua sendo importante. O diferencial está em transformar conhecimento técnico em soluções que geram valor.
